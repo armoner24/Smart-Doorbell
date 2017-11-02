@@ -1,0 +1,5 @@
+arduino uno
+blynk app
+ethernet board
+cables
+ethernet cord
